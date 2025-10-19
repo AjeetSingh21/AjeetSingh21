@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00FFFF;">Ajeet Singh</span> ✨</h1>
 
-<h3 align="center">💡 AI/ML Engineer | Algorithm Designer | SQA Enthusiast 🚀</h3>
+<h3 align="center">💡 AI/ML Enthusiast
 
 ---
 
