@@ -2,20 +2,13 @@
 
 <h1 align="center">Hey there 👋, I'm <span style="color:#00FFFF;">Ajeet Singh</span> ✨</h1>
 
-<h3 align="center">💡 AI/ML Enthusiast
+<h3 align="center">💡 Open to contribute
 
 ---
 
 ### 🧠 About Me  
-I'm an **AI/ML Engineer and enthusiast** passionate about solving real-world problems through intelligent algorithms, automation, and clean design.  
-From quality assurance systems to data-driven ML models — I love turning complex ideas into efficient, creative solutions.
+I love coding, solving real life problems. My Interests are Machine Learning, Web-Development. Learning Constanstly to match up with this World. Builing from scratch is what i love the most. I love working with a team and would be happy to contribute in the future.z
 
-- 🌱 Currently exploring **advanced ML algorithms & software quality automation**
-- 💻 Building end-to-end AI apps, from **backend (FastAPI)** to **frontend (React)**
-- 🎯 Focused on **clean architecture, optimization, and real-time analytics**
-- 📚 Constantly learning, experimenting, and improving through open-source
-
----
 
 ### 🚀 Featured Projects  
 
@@ -59,12 +52,6 @@ From quality assurance systems to data-driven ML models — I love turning compl
 
 ---
 
-### 🌈 Fun Facts  
-- 💭 I debug with coffee ☕ and music 🎧  
-- 🎮 I love building things that **think**, **learn**, and **improve**  
-- 🌍 Always up for creative collaborations in AI + software engineering  
-
----
 
 ⭐ **Thanks for visiting!**  
 Let’s build something impactful together 🚀  
