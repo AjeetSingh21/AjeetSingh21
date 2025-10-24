@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me  
-I love coding, solving real life problems. My Interests are Machine Learning, Web-Development. Learning Constanstly to match up with this World. Builing from scratch is what i love the most. I love working with a team and would be happy to contribute in the future.z
+I love coding, solving real life problems. My Interests are Machine Learning, Web-Development. Learning Constanstly to match up with this World. Builing from scratch is what i love the most. I love working with a team and would be happy to contribute in the future
 
 
 ### 🚀 Featured Projects  
