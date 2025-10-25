@@ -46,8 +46,6 @@
 
 <div align="center">
 
-![Metrics](https://github-readme-metrics.vercel.app/api?username=AjeetSingh21&template=classic&config.timezone=Asia%2FKolkata&config.animated=true&base.community=0&languages=1&lines=1&followup=1&theme=react)
-
 ![Ajeet’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=react&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=react&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AjeetSingh21&theme=react&hide_border=true)
