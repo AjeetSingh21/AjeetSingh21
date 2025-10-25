@@ -64,8 +64,9 @@ Signing off!
 
 ### 🗺️ 3D Contribution Calendar (Dark)
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AjeetSingh21/AjeetSingh21/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Grid Snake" />
+  <img src="https://github.com/AjeetSingh21/AjeetSingh21/blob/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Grid Snake Animation" />
 </div>
+
 
 ---
 
