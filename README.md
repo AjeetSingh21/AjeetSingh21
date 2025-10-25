@@ -62,10 +62,7 @@ Signing off!
 
 ---
 
-### 🗺️ 3D Contribution Calendar (Dark)
-<div align="center">
-  <img src="https://github.com/AjeetSingh21/AjeetSingh21/blob/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Grid Snake Animation" />
-</div>
+
 
 
 ---
@@ -84,11 +81,6 @@ Signing off!
 </p>
 
 ---
-
-### 👁️ Visitor Counter
-<p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjeetSingh21&count_bg=%2300C853&title_bg=%2318191C&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
-</p>
 
 ---
 
