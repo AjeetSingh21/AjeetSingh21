@@ -79,8 +79,4 @@
 
 ---
 
-💫 **Fun Developer Badge**
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=AjeetSingh21&theme=onestar&no-frame=true&margin-w=10" alt="GitHub Trophies" width="90%"/>
 
-</div>
