@@ -42,42 +42,45 @@
 
 ---
 
-### 📊 GitHub Statistics
+## ⚡ GitHub Statistics
 
 <div align="center">
 
-![Ajeet’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=react&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=AjeetSingh21&theme=react&hide_border=true)
+### ✨ **Ajeet Singh's Developer Dashboard**
+
+💻 *“Turning coffee ☕ into clean commits and creative code!”*  
+
+---
+
+<table>
+<tr>
+<td align="center" width="50%">
+  
+🎯 **Overall Performance**  
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Ajeet’s GitHub stats" width="100%"/>
+
+</td>
+<td align="center" width="50%">
+  
+🌈 **Most Used Languages**  
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+🔥 **Commit & Contribution Streaks**  
+<br>
+<img src="https://streak-stats.demolab.com?user=AjeetSingh21&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=DD2727&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub Streak" width="90%"/>
+
+---
+
+💫 **Fun Developer Badge**
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=AjeetSingh21&theme=onestar&no-frame=true&margin-w=10" alt="GitHub Trophies" width="90%"/>
 
 </div>
-
----
-
-### 🚧 Featured Projects
-- 🛰️ **SATYA – Secure Automated Truth Yielding Assessment**  
-  AI-powered **land-parcel verification** platform.  
-- 🧊 **Mycelium Network / Decentralized Community Fridge Map**  
-  Peer-to-peer sharing map using **Mapbox** & **Twilio SMS**.  
-- 💻 **CollabSphere**  
-  Java Swing-based **team collaboration** desktop app.
-
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/ajeet-singh-9931a6284" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:itsjaeetsingh386@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/AjeetSingh21">
-  <img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-> 💬 *“I code for creativity, logic, and the thrill of making things work.”*  
-> ✨ *Keep coding. Keep learning. Keep breaking things (and fixing them).*
