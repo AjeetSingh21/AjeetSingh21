@@ -6,11 +6,13 @@
 ---
 
 ### 🧠 About Me
-- 💻 I love building **AI-driven**, **full-stack**, and **community-impact** projects.  
-- 🌐 Passionate about **React**, **Node.js**, **FastAPI**, and **Machine Learning**.  
-- 🚀 Currently exploring **Deep Learning** & **Cloud Deployments**.  
-- 🧩 I can sit for hours coding, debugging, and designing without getting bored!  
-- 💬 Ask me about **JavaScript**, **React**, **Python**, **Express**, and **MongoDB**.  
+I love building things, solving real life problems.
+In my free time I play games rather than exploring something new, I can have a separate time to explore, and usually I do.
+I hate when my code fails, but if code works everytime,it means you are either getting 100% or not a single thing about that.
+Love coffee. I dont code with music.
+Would be happy to contribute in any way possible.
+That's it about myself...
+Signing off!
 
 ---
 
@@ -43,13 +45,11 @@
 
 <div align="center">
 
-<!-- Lowlighter Metrics (compact dashboard) -->
-<img src="https://metrics.lecoq.io/AjeetSingh21?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&lines=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata&config.animated=true" alt="Metrics" />
+![Metrics](https://github-readme-metrics.vercel.app/api?username=AjeetSingh21&template=classic&config.timezone=Asia%2FKolkata&config.animated=true&base.community=0&languages=1&lines=1&followup=1&theme=react)
 
-<!-- Core stats + languages + streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=react&hide_border=true" alt="Ajeet’s GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-<img src="https://streak-stats.demolab.com?user=AjeetSingh21&theme=react&hide_border=true" alt="GitHub Streak" />
+![Ajeet’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=react&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=AjeetSingh21&theme=react&hide_border=true)
 
 </div>
 
@@ -63,25 +63,9 @@
 ---
 
 ### 🗺️ 3D Contribution Calendar (Dark)
-<!--
-This section uses the "github-profile-3d-contrib" output images stored in your repo.
-After you enable the workflow, these images will exist at the paths below.
--->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AjeetSingh21/AjeetSingh21/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions - Night Rainbow" />
-</p>
-
----
-
-### 🎧 Coding Music (optional)
-<!-- Replace UID if/when you want to show your Spotify card -->
-<!--
-<p align="center">
-  <a href="https://open.spotify.com/user/31w66tjxsbpqs6hpo6dv72uqzz3a">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w66tjxsbpqs6hpo6dv72uqzz3a&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
-  </a>
-</p>
--->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AjeetSingh21/AjeetSingh21/output/github-contribution-grid-snake-dark.svg" alt="3D Contribution Grid Snake" />
+</div>
 
 ---
 
@@ -102,4 +86,9 @@ After you enable the workflow, these images will exist at the paths below.
 
 ### 👁️ Visitor Counter
 <p align="left">
-  <img src="https://hits.se
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAjeetSingh21&count_bg=%2300C853&title_bg=%2318191C&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"/>
+</p>
+
+---
+
+> 💬 *“I code for creativity, logic, and the thrill of making things work.”*
