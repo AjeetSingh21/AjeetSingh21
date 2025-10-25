@@ -1,7 +1,7 @@
 <!-- Profile README for Ajeet Singh -->
 
 <h1 align="center">Hi 👋, I'm Ajeet Singh</h1>
-<h3 align="center">🚀 Developer | AI/ML Enthusiast | Open Source Learner</h3> 
+<h3 align="center">🚀 Developer | AI/ML Enthusiast | Open Source Learner</h3>
 
 ---
 
@@ -43,34 +43,54 @@
 
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/AjeetSingh21?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&lines=1&config.timezone=Asia%2FKolkata)
+<!-- Lowlighter Metrics (compact dashboard) -->
+<img src="https://metrics.lecoq.io/AjeetSingh21?template=classic&base.header=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&followup=1&lines=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata&config.animated=true" alt="Metrics" />
 
-![Ajeet’s GitHub stats](https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=react&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=react&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AjeetSingh21&theme=react&hide_border=true)
+<!-- Core stats + languages + streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=react&hide_border=true" alt="Ajeet’s GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+<img src="https://streak-stats.demolab.com?user=AjeetSingh21&theme=react&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
 ### 🧩 Featured Projects
-- 🔹 [**SATYA Portal**](https://github.com/AjeetSingh21/SATYA) — AI-powered land-parcel verification platform.  
-- 🔹 [**Mycelium Network**](https://github.com/AjeetSingh21/Mycelium) — Peer-to-peer fridge sharing map with Twilio SMS & Mapbox.  
-- 🔹 [**CollabSphere**](https://github.com/AjeetSingh21/CollabSphere) — Team collaboration desktop app built with Java Swing.  
+- 🔹 **SATYA – Secure Automated Truth Yielding Assessment** — AI-powered land-parcel verification portal.  
+- 🔹 **Mycelium Network / Decentralized Community Fridge Map** — Mapbox markers, SMS flows, community sharing.  
+- 🔹 **CollabSphere** — Java Swing-based team collaboration desktop app.
 
 ---
 
-### 🎧 Coding Music
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31w66tjxsbpqs6hpo6dv72uqzz3a&cover_image=true&theme=novatorem)](https://open.spotify.com/user/31w66tjxsbpqs6hpo6dv72uqzz3a)
+### 🗺️ 3D Contribution Calendar (Dark)
+<!--
+This section uses the "github-profile-3d-contrib" output images stored in your repo.
+After you enable the workflow, these images will exist at the paths below.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AjeetSingh21/AjeetSingh21/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions - Night Rainbow" />
+</p>
+
+---
+
+### 🎧 Coding Music (optional)
+<!-- Replace UID if/when you want to show your Spotify card -->
+<!--
+<p align="center">
+  <a href="https://open.spotify.com/user/31w66tjxsbpqs6hpo6dv72uqzz3a">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31w66tjxsbpqs6hpo6dv72uqzz3a&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  </a>
+</p>
+-->
 
 ---
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/ajeet-singh-/" target="_blank">
+<a href="https://www.linkedin.com/in/ajeet-singh-9931a6284" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:itsajeetsingh386@gmail.com">
+<a href="mailto:itsjaeetsingh386@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/AjeetSingh21">
@@ -80,4 +100,6 @@
 
 ---
 
-> 💬 *“I code for creativity, logic, and the thrill of making things work.”*
+### 👁️ Visitor Counter
+<p align="left">
+  <img src="https://hits.se
