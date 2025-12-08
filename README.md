@@ -1,82 +1,175 @@
-<!-- Profile README for Ajeet Singh -->
+<!-- Profile Header -->
+<div align="center">
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff">Ajeet Singh</span></h1>
-<h3 align="center">🚀 Developer | 🤖 AI/ML Enthusiast | 💡 Open Source Learner</h3>
+# 👋 Hey, I'm Ajeet Singh  
 
----
+### CSE (AI & ML) Student | ML & NLP Enthusiast | Backend & Bots
 
-### 🧠 About Me
-💬 I love **building things** and solving **real-life problems**.  
-🎮 In my free time, I play games — but I always find time to explore something new.  
-😤 I *hate* when my code fails... but I can’t sleep until it works.  
-☕ Big fan of coffee.  
-🎧 I don’t code with music — silence helps me think better.  
-🌍 Always open to contribute to projects, learn, and collaborate.  
-✌️ That’s it about myself... *Signing off!*
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C4FF&center=true&vCenter=true&width=650&lines=I+build+ML+projects+that+solve+real+problems;I+love+NLP%2C+data+and+automation;Always+learning%2C+always+experimenting+🚀)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### 🧰 Tech Stack
+## 🙋‍♂️ About Me
 
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/⚛️_React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/⬛_Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/🌊_Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss)
-
-#### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/🟩_Node.js-303030?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/🚏_Express-20232A?style=for-the-badge&logo=express)
-![FastAPI](https://img.shields.io/badge/⚡_FastAPI-009688?style=for-the-badge&logo=fastapi)
-
-#### 🧮 AI/ML & Data
-![Python](https://img.shields.io/badge/🐍_Python-14354C?style=for-the-badge&logo=python)
-![NumPy](https://img.shields.io/badge/🔢_Numpy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/🐼_Pandas-150458?style=for-the-badge&logo=pandas)
-![TensorFlow](https://img.shields.io/badge/🧠_TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-
-#### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github)
-![Vercel](https://img.shields.io/badge/▲_Vercel-000000?style=for-the-badge&logo=vercel)
-![Render](https://img.shields.io/badge/⚙️_Render-2B2B2B?style=for-the-badge&logo=render)
-![Netlify](https://img.shields.io/badge/🌐_Netlify-0E1E25?style=for-the-badge&logo=netlify)
+- 🎓 B.Tech CSE (AI & ML) student  
+- 🤖 More into **Machine Learning / NLP** than pure web dev  
+- 🧠 I enjoy:
+  - Turning **datasets** into **insights & models**
+  - Building **ML-powered tools** like bots and summarizers  
+- 🎮 In free time: games + exploring new tech  
+- 😤 Hate when my code fails, but…  
+  > I can’t sleep until it works 😅  
+- ☕ Coffee-powered coding, with **silence**, not music  
+- 🤝 Always open for **collabs, internships, and open-source contributions**
 
 ---
 
-## ⚡ GitHub Statistics
+## 🧠 What I’m Focused On Right Now
+
+- ✅ Practicing **NLP** (Twitter/Zomato sentiment, text summarization, etc.)  
+- ✅ Building **ML mini-projects** in Jupyter Notebooks  
+- ✅ Exploring **bots & automation** (like my Binance Futures CLI bot)  
+- ✅ Improving **project structure + documentation** for GitHub
+
+---
+
+## 🔥 Featured Projects (Based on My Repos)
+
+### 🧾 Resume-Summarizer (NLP + Streamlit)
+- 🔗 Repo: [Resume-Summarizer](https://github.com/AjeetSingh21/Resume-Summarizer)
+- 🧠 Uses **BART (facebook/bart-large-cnn)** from Hugging Face for text summarization  
+- 🖥️ Built with **Streamlit** for a clean, interactive UI  
+- 🎯 Upload or paste resume text → get a **short, meaningful professional summary**  
+- 🛠️ Stack: `Python` · `NLP` · `Transformers` · `Streamlit`
+
+---
+
+### 😊 Sentiment-Analysis (NLP Practice – Twitter & Zomato)
+- 🔗 Repo: [Sentiment-Analysis](https://github.com/AjeetSingh21/Sentiment-Analysis)
+- 📊 Contains:
+  - `NLP_Twitter_Sentiment_Analysis.ipynb`
+  - `NLP Zomato Analysis.ipynb`
+- 🎯 Focused on:
+  - Text cleaning, tokenization, stopword removal, stemming  
+  - Building basic **ML models for sentiment classification**
+- 🛠️ Stack: `Python` · `NLTK` · `Scikit-learn` · `Pandas` · `NumPy`  
+
+---
+
+### 💰 Expense-Categorizer (ML for Personal Finance)
+- 🔗 Repo: [Expense-Categorizer](https://github.com/AjeetSingh21/Expense-Categorizer)
+- 🎯 Categorizes expenses into groups using **ML / data processing**  
+- 📝 Jupyter Notebook based — great showcase of **data pipeline thinking**  
+- 🛠️ Stack: `Python` · `Pandas` · `ML` · `Jupyter`
+
+---
+
+### 🤖 Binance-Bot (CLI Binance Futures Bot)
+- 🔗 Repo: [Binance-Bot](https://github.com/AjeetSingh21/Binance-Bot)
+- 📈 CLI-based **Binance Futures Order Bot** for **Testnet**  
+- Supports:
+  - ✅ Market Orders  
+  - ✅ Limit Orders  
+- 🧪 Safe to experiment with strategies using Testnet  
+- 🛠️ Stack: `Python` · `APIs` · `Automation`  
+
+---
+
+### 🧠 Models (ML / DL Playground)
+- 🔗 Repo: [Models](https://github.com/AjeetSingh21/Models)
+- 🧪 A collection of ML models / experiments (Jupyter Notebooks)  
+- 🎯 Used as a **learning + experimentation lab**  
+- 🛠️ Stack: `Python` · `Jupyter Notebook`
+
+---
+
+### 🌐 Collabsphere (SaaS Experiment)
+- 🔗 Repo: [Collabsphere](https://github.com/AjeetSingh21/Collabsphere)
+- 💡 Early version of a **collaboration / SaaS-style project**
+- 🔍 Work-in-progress, but shows interest in **product-style thinking**
+- 🛠️ Stack: `JavaScript` and web technologies
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- `Python` · `JavaScript`  
+
+### 🤖 AI / ML & Data
+- `Pandas` · `NumPy` · `Scikit-learn`  
+- `Transformers` (Hugging Face)  
+- `NLP` (tokenization, stopwords, stemming, sentiment analysis)  
+
+### 🧪 Tools
+- `Jupyter Notebook` · `Streamlit`  
+- `Git` · `GitHub` · `VS Code`  
+
+### 🌐 (Basic) Web / Backend
+- Some experience with:
+  - `Node.js`
+  - `Express`
+  - `FastAPI`
+  - Frontend basics (`HTML`, `CSS`, `JS`)
+
+---
+
+## 📌 Quick Project Table
+
+| Project              | Domain          | Highlights                                      | Repo Link |
+|----------------------|-----------------|-------------------------------------------------|-----------|
+| Resume-Summarizer    | NLP / Streamlit | Summarizes resumes using BART transformer       | [View](https://github.com/AjeetSingh21/Resume-Summarizer) |
+| Sentiment-Analysis   | NLP / ML        | Twitter & Zomato sentiment notebooks            | [View](https://github.com/AjeetSingh21/Sentiment-Analysis) |
+| Expense-Categorizer  | ML / Finance    | Categorizes expenses using ML + data cleaning   | [View](https://github.com/AjeetSingh21/Expense-Categorizer) |
+| Binance-Bot          | Automation / API| CLI Binance Futures Testnet order bot           | [View](https://github.com/AjeetSingh21/Binance-Bot) |
+| Models               | ML Playground   | Collection of ML experiments & models           | [View](https://github.com/AjeetSingh21/Models) |
+| Collabsphere         | SaaS / Web      | Early-stage collaboration/tool concept          | [View](https://github.com/AjeetSingh21/Collabsphere) |
+
+---
+
+## 📊 GitHub Activity & Stats
 
 <div align="center">
 
-### ✨ **Ajeet Singh's Developer Dashboard**
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=tokyonight" alt="Ajeet's GitHub stats" height="165" />
 
-💻 *“Turning coffee ☕ into clean commits and creative code!”*  
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
 
----
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetSingh21&theme=tokyonight" alt="GitHub Streak" />
 
-<table>
-<tr>
-<td align="center" width="50%">
-  
-🎯 **Overall Performance**  
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Ajeet’s GitHub stats" width="100%"/>
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjeetSingh21&theme=tokyonight" alt="Contribution Graph" />
 
-</td>
-<td align="center" width="50%">
-  
-🌈 **Most Used Languages**  
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="100%"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-🔥 **Commit & Contribution Streaks**  
-<br>
-<img src="https://streak-stats.demolab.com?user=AjeetSingh21&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=DD2727&currStreakNum=58A6FF&sideNums=58A6FF" alt="GitHub Streak" width="90%"/>
+## 🎯 What I Want to Work On
+
+- 🧠 More **NLP projects**: chatbots, text classification, topic modeling  
+- 📈 **End-to-end ML pipelines**: from data → model → deployment  
+- 🌐 Simple **ML-backed web apps** (Streamlit/FastAPI + frontend)  
+- 🤝 **Collaborations** on ML / bots / automation projects  
 
 ---
 
+## 📫 Connect With Me
 
+> _(Add your real links below before using)_
+
+- 📧 Email: `your-email@example.com`  
+- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com)  
+- 🌐 Portfolio (coming soon…)
+
+---
+
+<div align="center">
+
+⭐ If you like my work or want to collaborate, feel free to **star** my repos or **reach out**.  
+
+</div>
