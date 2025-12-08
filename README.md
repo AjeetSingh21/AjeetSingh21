@@ -1,131 +1,127 @@
-<!-- Profile Header -->
+<!-- HEADER -->
 <div align="center">
 
-# 👋 Hey, I'm Ajeet Singh  
+# 👋 Hey, I'm **Ajeet Singh**
 
-### CSE (AI & ML) Student | ML & NLP Enthusiast | Backend & Bots
+### CSE (AI & ML) Undergrad · ML & NLP · Bots & Automation
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C4FF&center=true&vCenter=true&width=650&lines=I+build+ML+projects+that+solve+real+problems;I+love+NLP%2C+data+and+automation;Always+learning%2C+always+experimenting+🚀)](https://git.io/typing-svg)
+[![GitHub](https://img.shields.io/badge/GitHub-AjeetSingh21-000?style=for-the-badge&logo=github)](https://github.com/AjeetSingh21)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajeet%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajeet-singh-9931a6284)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&center=true&vCenter=true&width=600&lines=I+love+building+ML+%26+NLP+projects;I+turn+data+into+useful+tools;Trying+to+ship+1%25+better+projects+every+day)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🧑‍💻 About Me
 
-- 🎓 B.Tech CSE (AI & ML) student  
-- 🤖 More into **Machine Learning / NLP** than pure web dev  
-- 🧠 I enjoy:
-  - Turning **datasets** into **insights & models**
-  - Building **ML-powered tools** like bots and summarizers  
-- 🎮 In free time: games + exploring new tech  
-- 😤 Hate when my code fails, but…  
-  > I can’t sleep until it works 😅  
-- ☕ Coffee-powered coding, with **silence**, not music  
-- 🤝 Always open for **collabs, internships, and open-source contributions**
+- 🎓 B.Tech **CSE (AI & ML)**  
+- 🤖 More into **Machine Learning / NLP / Bots** than traditional web dev  
+- 🧠 I like:
+  - Converting **raw data → clean insights → working models**
+  - Building **small but useful tools** (resume summarizer, expense categorizer, trading bot, etc.)
+- ☕ Coffee + silence + VS Code + Jupyter = perfect setup  
+- 🔁 I break things a lot… but I fix them before sleeping 😅  
 
 ---
 
-## 🧠 What I’m Focused On Right Now
+## 🚀 What I’m Currently Doing
 
-- ✅ Practicing **NLP** (Twitter/Zomato sentiment, text summarization, etc.)  
-- ✅ Building **ML mini-projects** in Jupyter Notebooks  
-- ✅ Exploring **bots & automation** (like my Binance Futures CLI bot)  
-- ✅ Improving **project structure + documentation** for GitHub
+- 🧾 **NLP**: sentiment analysis, resume summarization, text cleaning pipelines  
+- 💰 **Finance + ML**: expense categorization, Binance Futures testnet bot  
+- 📚 Building a **collection of ML notebooks** to revise concepts quickly  
+- 🎯 Goal: ship **simple, clean projects** that someone can actually use  
 
 ---
 
-## 🔥 Featured Projects (Based on My Repos)
+## ⭐ Highlighted Projects
 
-### 🧾 Resume-Summarizer (NLP + Streamlit)
+### 🧾 Resume-Summarizer  
+> _“Turn long resumes into short, meaningful summaries.”_  
+
+- Uses **BART (`facebook/bart-large-cnn`)** from Hugging Face  
+- Built with **Streamlit** → paste/add your resume text → get a **clean summary**  
+- Good example of **practical NLP + simple UI**  
 - 🔗 Repo: [Resume-Summarizer](https://github.com/AjeetSingh21/Resume-Summarizer)
-- 🧠 Uses **BART (facebook/bart-large-cnn)** from Hugging Face for text summarization  
-- 🖥️ Built with **Streamlit** for a clean, interactive UI  
-- 🎯 Upload or paste resume text → get a **short, meaningful professional summary**  
-- 🛠️ Stack: `Python` · `NLP` · `Transformers` · `Streamlit`
 
 ---
 
-### 😊 Sentiment-Analysis (NLP Practice – Twitter & Zomato)
+### 😊 Sentiment-Analysis (Twitter & Zomato)
+
+- Jupyter notebooks for:
+  - Twitter sentiment analysis  
+  - Zomato reviews analysis  
+- Includes:
+  - Text preprocessing (cleaning, stopwords, stemming)  
+  - Feature extraction + basic ML models  
+- Great to show **NLP basics + ML pipeline**  
 - 🔗 Repo: [Sentiment-Analysis](https://github.com/AjeetSingh21/Sentiment-Analysis)
-- 📊 Contains:
-  - `NLP_Twitter_Sentiment_Analysis.ipynb`
-  - `NLP Zomato Analysis.ipynb`
-- 🎯 Focused on:
-  - Text cleaning, tokenization, stopword removal, stemming  
-  - Building basic **ML models for sentiment classification**
-- 🛠️ Stack: `Python` · `NLTK` · `Scikit-learn` · `Pandas` · `NumPy`  
 
 ---
 
-### 💰 Expense-Categorizer (ML for Personal Finance)
+### 💰 Expense-Categorizer
+
+- Takes expense data and groups it into categories  
+- Focus on:
+  - Data cleaning  
+  - Simple ML / rules for categorization  
+- Useful personal-finance style project  
 - 🔗 Repo: [Expense-Categorizer](https://github.com/AjeetSingh21/Expense-Categorizer)
-- 🎯 Categorizes expenses into groups using **ML / data processing**  
-- 📝 Jupyter Notebook based — great showcase of **data pipeline thinking**  
-- 🛠️ Stack: `Python` · `Pandas` · `ML` · `Jupyter`
 
 ---
 
-### 🤖 Binance-Bot (CLI Binance Futures Bot)
+### 🤖 Binance-Bot (CLI)
+
+- **CLI Binance Futures Order Bot** for **Testnet**  
+- Supports **market** & **limit** orders  
+- Shows comfort with **APIs, automation, and trading logic**  
 - 🔗 Repo: [Binance-Bot](https://github.com/AjeetSingh21/Binance-Bot)
-- 📈 CLI-based **Binance Futures Order Bot** for **Testnet**  
-- Supports:
-  - ✅ Market Orders  
-  - ✅ Limit Orders  
-- 🧪 Safe to experiment with strategies using Testnet  
-- 🛠️ Stack: `Python` · `APIs` · `Automation`  
 
 ---
 
-### 🧠 Models (ML / DL Playground)
+### 🧪 Models – ML Playground
+
+- Collection of **ML experiments** inside notebooks  
+- Used for:
+  - Practicing algorithms  
+  - Trying new ideas quickly  
 - 🔗 Repo: [Models](https://github.com/AjeetSingh21/Models)
-- 🧪 A collection of ML models / experiments (Jupyter Notebooks)  
-- 🎯 Used as a **learning + experimentation lab**  
-- 🛠️ Stack: `Python` · `Jupyter Notebook`
 
 ---
 
-### 🌐 Collabsphere (SaaS Experiment)
+<details>
+<summary><b>🧩 More Projects (click to expand)</b></summary>
+
+### 🌐 Collabsphere
+- Early-stage **SaaS / collaboration** project  
+- Still evolving, but shows interest in **product-building**  
 - 🔗 Repo: [Collabsphere](https://github.com/AjeetSingh21/Collabsphere)
-- 💡 Early version of a **collaboration / SaaS-style project**
-- 🔍 Work-in-progress, but shows interest in **product-style thinking**
-- 🛠️ Stack: `JavaScript` and web technologies
+
+### 📚 Others
+- Small experiments, notes, and practice repos that track my learning journey.  
+
+</details>
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- `Python` · `JavaScript`  
+### 👨‍💻 Languages
+- `Python` · `JavaScript`
 
-### 🤖 AI / ML & Data
-- `Pandas` · `NumPy` · `Scikit-learn`  
+### 🤖 AI / ML / Data
+- `Pandas` · `NumPy` · `Scikit-learn`
 - `Transformers` (Hugging Face)  
-- `NLP` (tokenization, stopwords, stemming, sentiment analysis)  
+- `NLP` (tokenization, stopwords, stemming, sentiment)  
 
-### 🧪 Tools
+### 🧰 Tools & Platforms
 - `Jupyter Notebook` · `Streamlit`  
 - `Git` · `GitHub` · `VS Code`  
 
-### 🌐 (Basic) Web / Backend
-- Some experience with:
-  - `Node.js`
-  - `Express`
-  - `FastAPI`
-  - Frontend basics (`HTML`, `CSS`, `JS`)
-
----
-
-## 📌 Quick Project Table
-
-| Project              | Domain          | Highlights                                      | Repo Link |
-|----------------------|-----------------|-------------------------------------------------|-----------|
-| Resume-Summarizer    | NLP / Streamlit | Summarizes resumes using BART transformer       | [View](https://github.com/AjeetSingh21/Resume-Summarizer) |
-| Sentiment-Analysis   | NLP / ML        | Twitter & Zomato sentiment notebooks            | [View](https://github.com/AjeetSingh21/Sentiment-Analysis) |
-| Expense-Categorizer  | ML / Finance    | Categorizes expenses using ML + data cleaning   | [View](https://github.com/AjeetSingh21/Expense-Categorizer) |
-| Binance-Bot          | Automation / API| CLI Binance Futures Testnet order bot           | [View](https://github.com/AjeetSingh21/Binance-Bot) |
-| Models               | ML Playground   | Collection of ML experiments & models           | [View](https://github.com/AjeetSingh21/Models) |
-| Collabsphere         | SaaS / Web      | Early-stage collaboration/tool concept          | [View](https://github.com/AjeetSingh21/Collabsphere) |
+### 🌐 Web / Backend (Basics)
+- `FastAPI` · `Node.js` · `Express`
+- `HTML` · `CSS` · `JavaScript`
 
 ---
 
@@ -133,41 +129,35 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=radical" height="150" />
+<!-- Overall Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=radical&hide_border=true" height="160" />
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=radical" height="150" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=radical&hide_border=true" height="160" />
 
-<!-- Streaks -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AjeetSingh21&theme=radical" height="150" />
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AjeetSingh21&theme=radical&hide_border=true" height="160" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjeetSingh21&theme=react-dark" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjeetSingh21&theme=react-dark&hide_border=true" width="98%" />
 
 </div>
 
-## 🎯 What I Want to Work On
-
-- 🧠 More **NLP projects**: chatbots, text classification, topic modeling  
-- 📈 **End-to-end ML pipelines**: from data → model → deployment  
-- 🌐 Simple **ML-backed web apps** (Streamlit/FastAPI + frontend)  
-- 🤝 **Collaborations** on ML / bots / automation projects  
-
 ---
 
-## 📫 Connect With Me
+## 🤝 Let’s Connect
 
-> _(Add your real links below before using)_
+- 💼 **LinkedIn**: [Ajeet Singh](https://www.linkedin.com/in/ajeet-singh-9931a6284)  
+- 🐙 **GitHub**: [AjeetSingh21](https://github.com/AjeetSingh21)  
 
-- 📧 Email: `itsajeetsingh386@gmail.com`  
-- 💼 LinkedIn: 
-
+> Open to **internships, collabs, and cool ML/NLP ideas**.  
+> If any of my repos look interesting, feel free to open an issue or DM me.
 
 ---
 
 <div align="center">
 
-⭐ If you like my work or want to collaborate, feel free to **star** my repos or **reach out**.  
+If you reached this far, thanks for visiting 🙌  
+⭐️ Consider starring the repos you like!
 
 </div>
