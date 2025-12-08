@@ -134,20 +134,18 @@
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=tokyonight" alt="Ajeet's GitHub stats" height="165" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AjeetSingh21&show_icons=true&theme=radical" height="150" />
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AjeetSingh21&layout=compact&theme=radical" height="150" />
 
-<!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AjeetSingh21&theme=tokyonight" alt="GitHub Streak" />
+<!-- Streaks -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AjeetSingh21&theme=radical" height="150" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjeetSingh21&theme=tokyonight" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AjeetSingh21&theme=react-dark" width="98%" />
 
 </div>
-
----
 
 ## 🎯 What I Want to Work On
 
@@ -162,9 +160,9 @@
 
 > _(Add your real links below before using)_
 
-- 📧 Email: `your-email@example.com`  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com)  
-- 🌐 Portfolio (coming soon…)
+- 📧 Email: `itsajeetsingh386@gmail.com`  
+- 💼 LinkedIn: 
+
 
 ---
 
