@@ -20,7 +20,7 @@
 - 🤖 More into **Machine Learning / NLP / Automation**  
 - 🧠 I like turning **data → models → real tools**  
 - ☕ Coffee + silence + VS Code = productivity  
-- 🔥 If something breaks, it *doesn't sleep before I fix it* 😅  
+
 
 ---
 
