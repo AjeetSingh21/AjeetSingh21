@@ -63,3 +63,6 @@
 ## ⚡ Fun Fact
 
 > I don’t just build models — I build tools people can actually use.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AjeetSingh21/AjeetSingh21/output/github-contribution-grid-snake.svg" />
+</p>
