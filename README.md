@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Engineer | NLP | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=I+build+AI+tools;NLP+%7C+Machine+Learning;Automation+%7C+Real-world+projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=28&width=600&lines=I+build+AI+tools+that+solve+real+problems;Machine+Learning+%7C+NLP+%7C+Automation;Turning+data+into+impact" />
 </p>
 
 ---
@@ -32,38 +32,19 @@
 </p>
 
 ---
-
 ## 🔥 Featured Projects
 
-### 📄 Resume Summarizer
-- Converts long resumes → short professional summaries
-- Model: **BART (NLP)**
-- UI: Streamlit  
-🔗 https://github.com/AjeetSingh21/Resume-Summarizer
+<p align="center">
 
----
+<a href="https://github.com/AjeetSingh21/Resume-Summarizer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetSingh21&repo=Resume-Summarizer&theme=tokyonight" />
+</a>
 
-### 😊 Sentiment Analysis (Twitter + Zomato)
-- NLP pipeline → preprocessing + prediction
-- Real-world dataset handling  
-🔗 https://github.com/AjeetSingh21/Sentiment-Analysis
+<a href="https://github.com/AjeetSingh21/Sentiment-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AjeetSingh21&repo=Sentiment-Analysis&theme=tokyonight" />
+</a>
 
----
-
-### 💰 Expense Categorizer
-- ML model to classify expenses
-- Focus on data cleaning + feature engineering  
-🔗 (add your repo link here)
-
----
-
-## 🧠 Currently Working On
-
-- NLP pipelines (summarization, sentiment)
-- ML experimentation notebooks
-- Trading bot (futures testing)
-- Building **practical AI tools**
-
+</p>
 ---
 
 ## 🌐 Connect With Me
